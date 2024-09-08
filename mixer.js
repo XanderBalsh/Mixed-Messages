@@ -1,6 +1,6 @@
 // Below I will store message components.
-const messages = ["You shall find ", "You shall not find ", "What you seek is "];
-const messages2 = ["Mr Monkey is not what you expect.", "the answers at the bottom of a bottle.", "more questions than answers."];
+const messages = ["You shall find ", "You shall not find ", "What you seek is ", "Consider... "];
+const messages2 = ["Mr Monkey is not what you expect.", "the answers at the bottom of a bottle.", "more questions than answers.", "the famous Ginge."];
 
 // Below is a function that randomly picks one of each messages and combines them.
 
